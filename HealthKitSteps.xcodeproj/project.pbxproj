@@ -11,6 +11,8 @@
 		C1E278DA2823329F00571765 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1E278D92823329F00571765 /* ContentView.swift */; };
 		C1E278DC282332A000571765 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1E278DB282332A000571765 /* Assets.xcassets */; };
 		C1E278DF282332A000571765 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1E278DE282332A000571765 /* Preview Assets.xcassets */; };
+		C1E278E6282332BC00571765 /* Step.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1E278E5282332BC00571765 /* Step.swift */; };
+		C1E278E82823330700571765 /* HealthStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1E278E72823330700571765 /* HealthStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		C1E278D92823329F00571765 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C1E278DB282332A000571765 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C1E278DE282332A000571765 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C1E278E5282332BC00571765 /* Step.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Step.swift; sourceTree = "<group>"; };
+		C1E278E72823330700571765 /* HealthStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				C1E278D92823329F00571765 /* ContentView.swift */,
 				C1E278DB282332A000571765 /* Assets.xcassets */,
 				C1E278DD282332A000571765 /* Preview Content */,
+				C1E278E5282332BC00571765 /* Step.swift */,
+				C1E278E72823330700571765 /* HealthStore.swift */,
 			);
 			path = HealthKitSteps;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				C1E278DA2823329F00571765 /* ContentView.swift in Sources */,
 				C1E278D82823329F00571765 /* HealthKitStepsApp.swift in Sources */,
+				C1E278E6282332BC00571765 /* Step.swift in Sources */,
+				C1E278E82823330700571765 /* HealthStore.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
